@@ -1,0 +1,77 @@
+<html lang="es-ES" class="pro theme-azure-light no-navigation"><head>
+    <meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+<meta name="username">
+<link rel="home" id="ApplicationPath" href="/">
+<link rel="icon" type="image/x-icon" href="/favicon.ico">
+    <link href="/DynJS.axd/CssBundle.Base.css?v=x15Ap1ruiPv1IWUoXIgQuA" rel="stylesheet" type="text/css">
+
+    <link href="/DynJS.axd/CssBundle.Site.css?v=Z_puvZFNfDx-YP37iPTI4w" rel="stylesheet" type="text/css">
+
+<script type="application/json" id="ScriptCulture">{"DateOrder":"dmy","DateFormat":"dd/MM/yyyy","DateSeparator":"/","DateTimeFormat":"dd/MM/yyyy HH:mm:ss","DecimalSeparator":",","GroupSeparator":"."}</script>
+    <script src="/DynJS.axd/Bundle.Base.js?v=h-LUjMF8ZmxQp5Ffkvd9rQ" type="text/javascript"></script>
+
+    <script src="/DynJS.axd/Bundle.Site.js?v=NmHvhiqm6CuSIq1AJxVigA" type="text/javascript"></script>
+
+    <script src="/DynJS.axd/LocalText.Site.es-ES.Public.js?v=yYSTSTbLhfQanMMAuABWFA" type="text/javascript"></script>
+
+<script type="module" src="/esm/Modules/Common/ScriptInit.js?v=m-H8VwsboJZq5YMSBTbtNQ"></script>
+<script type="text/javascript">Q.ScriptData.set('Lookup.Administration.Language', new Q.Lookup({"idField":"LanguageId","textField":"LanguageName"}, 
+[{"Id":6,"LanguageId":"zh-CN","LanguageName":"Chinese (Simplified)"},{"Id":1,"LanguageId":"en","LanguageName":"English"},{"Id":10,"LanguageId":"fa","LanguageName":"Farsi"},{"Id":5,"LanguageId":"de","LanguageName":"German"},{"Id":7,"LanguageId":"it","LanguageName":"Italian"},{"Id":8,"LanguageId":"pt","LanguageName":"Portuguese"},{"Id":9,"LanguageId":"pt-BR","LanguageName":"Portuguese (Brazil)"},{"Id":2,"LanguageId":"ru","LanguageName":"Russian"},{"Id":3,"LanguageId":"es","LanguageName":"Spanish"},{"Id":4,"LanguageId":"tr","LanguageName":"Turkish"},{"Id":11,"LanguageId":"vi-VN","LanguageName":"Vietnamese (Vietnam)"}]
+));</script>
+<script type="application/json" id="RegisteredScripts">{"Lookup.Northwind.OrderShipCity":"638073932004128183","Columns.WorkLog.Currency":"638073932004128216","Form.Serenity.Pro.Meeting.Forms.MeetingLocationForm":"638073932004128228","Lookup.WorkLog.Tasks":"638073932004128243","Columns.Serenity.Pro.DataAuditLog.DataAuditLogColumns":"638073932004128259","Columns.Serenity.Pro.Meeting.Columns.MeetingLocationColumns":"638073932004128269","Columns.Administration.Role":"638073932004128281","Columns.Northwind.SalesByCategory":"638073932004128288","Form.BasicSamples.PopulateLinkedData":"638073932004128298","LocalText.Site.es-ES.Public":"yYSTSTbLhfQanMMAuABWFA","Columns.Northwind.Shipper":"638073932004128315","Lookup.Northwind.Supplier":"JohzrWfNo0QsmwGfw7TKcw","Form.Administration.User":"638073932004128383","Form.WorkLog.EmployeePricing":"638073932004128391","Form.AdvancedSamples.OrderWizard":"638073932004128400","RemoteData.LocalText":"--1254788895","Form.AdvancedSamples.ProductExcelImport":"638073932004128495","Lookup.Serenity.Pro.Meeting.MeetingLocation":"mso0Ik4jJvxtv21e3bMp4Q","Bundle.NorthwindLookups":"U7bZCVAEoYRJXR4UdbzvCw","Form.Serenity.Pro.EmailClient.EmailCompose":"638073932004128569","Lookup.WorkLog.Invoice":"638073932004128580","Lookup.Northwind.OrderShipCountry":"638073932004128590","Form.Northwind.Supplier":"638073932004128600","Form.AdvancedSamples.EnumFlagsForm":"638073932004128607","Form.WorkLog.Currency":"638073932004128615","Form.Northwind.Territory":"638073932004128621","Form.BasicSamples.StaticTextBlock":"638073932004128639","Form.Serenity.Pro.Meeting.Forms.MeetingAgendaRelevantForm":"638073932004128645","CssBundle.Base.rtl":"638073932004128654","Form.Northwind.Region":"638073932004128663","Columns.Serenity.Pro.Meeting.Columns.MeetingAgendaRelevantColumns":"638073932004128671","Bundle.Site":"NmHvhiqm6CuSIq1AJxVigA","Form.Northwind.Shipper":"638073932004128682","Form.BasicSamples.HarcodedValues":"638073932004128688","Columns.Northwind.Territory":"638073932004128693","Columns.Administration.Language":"638073932004128700","FormBundle":"QN47UTrxaVEXTf4kXdCscA","Columns.Serenity.Pro.Organization.Columns.ContactColumns":"638073932004128726","Form.Serenity.Pro.Meeting.Forms.MeetingDecisionRelevantForm":"638073932004128740","Bundle.Base":"h-LUjMF8ZmxQp5Ffkvd9rQ","Columns.Northwind.Category":"638073932004128751","Form.Serenity.Pro.Meeting.Forms.MeetingAgendaForm":"638073932004128758","Form.Serenity.Pro.Organization.Forms.BusinessUnitForm":"638073932004128764","Columns.Northwind.Customer":"638073932004128770","Columns.Northwind.Region":"638073932004128776","CssBundle.Pages/Dashboard":"5PDR87T2oXiJ7tQKoL0HEQ","Form.WorkLog.Employee":"638073932004128794","Lookup.Administration.Language":"1NBab_dUqgi31AY3w2h6Ow","Form.Serenity.Pro.Meeting.Forms.MeetingDecisionForm":"638073932004128818","Columns.Serenity.Pro.Meeting.Columns.MeetingDecisionRelevantColumns":"638073932004128825","Lookup.Northwind.Shipper":"YiNdQd8_0PL4hf-7NRfgUA","Form.AdvancedSamples.DragDropSample":"638073932004128872","Columns.Serenity.Pro.Meeting.Columns.MeetingDecisionColumns":"638073932004128878","Form.WorkLog.Project":"638073932004128885","Columns.Serenity.Pro.Meeting.Columns.MeetingTypeColumns":"638073932004128900","RemoteData.Administration.PermissionKeys":"638073932004128910","Form.AdvancedSamples.MultiDatesPicker":"638073932004128917","Form.WorkLog.Invoice":"638073932004128923","Form.Northwind.Customer":"638073932004128928","CssBundle.Site":"Z_puvZFNfDx-YP37iPTI4w","Lookup.Distinct.WorkLog.WorkLog.Year":"638073932004128944","Form.Northwind.OrderDetail":"638073932004128950","Form.Serenity.Pro.Meeting.Forms.MeetingAttendeeForm":"638073932004128956","Columns.Serenity.Pro.Meeting.MeetingColumns":"638073932004128962","Lookup.Northwind.Category":"ARf_gzKlacidyGakML5PgA","ColumnsBundle":"72h3kA9KRytQVgmW5VL_Fg","Columns.Default.Customer":"638073932004129007","Columns.BasicSamples.InlineImageInGrid":"638073932004129014","Form.WorkLog.WorkLog":"638073932004129025","Columns.Serenity.Pro.Meeting.Columns.MeetingAttendeeColumns":"638073932004129030","Columns.Administration.User":"638073932004129037","Form.Serenity.Pro.Organization.Forms.ContactForm":"638073932004129044","Lookup.Northwind.CustomerCountry":"fzyYe_rinntCcIYK5czKwg","Columns.WorkLog.WorkLog":"638073932004129094","Lookup.Serenity.Pro.Meeting.MeetingAgendaType":"638073932004129103","Columns.Serenity.Pro.EmailQueue.EmailQueueColumns":"638073932004129109","Columns.WorkLog.Project":"638073932004129116","Columns.WorkLog.Invoice":"638073932004129124","Lookup.Serenity.Pro.Organization.Contact":"xWf1JP5UjSWNZLQVnojfsg","Form.Administration.Role":"638073932004129164","Form.Default.Customer":"638073932004129167","Form.Serenity.Pro.Meeting.Forms.MeetingAgendaTypeForm":"638073932004129172","Form.Membership.ForgotPassword":"638073932004129178","Form.Administration.Language":"638073932004129183","Columns.Serenity.Pro.Organization.Columns.BusinessUnitColumns":"638073932004129187","Lookup.Administration.User":"638073932004129206","Columns.AdvancedSamples.CustomerGrossSales":"638073932004129214","Lookup.Distinct.Serenity.Pro.DataAuditLog.DataAuditLog.FieldName":"638073932004129226","Form.Northwind.Order":"638073932004129232","Form.AdvancedSamples.PickerOrder":"638073932004129238","Lookup.Distinct.Serenity.Pro.DataAuditLog.DataAuditLog.Tablename":"638073932004129258","Lookup.Northwind.CustomerCity":"H00QDrcxCRRGHzEE6x_eJQ","Template.Administration.SergenPanel":"638073932004129290","RemoteData.UserData":"638073932004129297","Lookup.Northwind.SupplierCountry":"638073932004129305","Form.BasicSamples.FilteredLookupInDetail":"638073932004129322","Lookup.WorkLog.Customer":"638073932004129332","Columns.AdvancedSamples.DragDropSample":"638073932004129339","Lookup.Northwind.Customer":"bNveuCTbu5QGZ6flIvz9nQ","Lookup.Northwind.Territory":"0GMMSXIISRHpu-MTEvLPiQ","Columns.Northwind.Order":"638073932004129393","TemplateBundle":"638073932004129401","Form.Membership.SignUp":"638073932004129411","Columns.Northwind.OrderDetail":"638073932004129419","RemoteData.Administration.ImplicitPermissions":"638073932004129428","Form.Serenity.Pro.Meeting.MeetingForm":"638073932004129434","LocalText.Site.tr-TR.Public":"-F3gya0S6sFpK_4ugv1a2Q","Lookup.WorkLog.Currency":"638073932004129454","Form.AdvancedSamples.GoogleMapsForm":"638073932004129460","Form.BasicSamples.ChangingLookupText":"638073932004129465","Lookup.WorkLog.Employee":"638073932004129473","ColumnAndFormBundle":"qeQkJHr0oCxHNyz4wsKsMQ","Bundle.CKEditor":"4-nHHfSyatvEAFxndNCoyQ","Form.BasicSamples.LookupFilterByMultiple":"638073932004129497","Lookup.Serenity.Pro.Organization.BusinessUnit":"znEAodBGoVxwKdNZi2yn8A","Columns.WorkLog.EmployeePricing":"638073932004129538","Form.Membership.ResetPassword":"638073932004129546","Form.Northwind.Product":"638073932004129550","Lookup.WorkLog.Project":"638073932004129562","Columns.Serenity.Pro.Meeting.Columns.MeetingAgendaTypeColumns":"638073932004129567","Lookup.Northwind.Employee":"8H1Y2Ngv5BTmQ93CFbbZAQ","Form.AdvancedSamples.InlineButtons":"638073932004129605","Form.Serenity.Pro.EmailQueue.EmailQueueForm":"638073932004129610","Lookup.Northwind.Product":"Jfc2HwfVzYltLgT9Yu_YWg","Lookup.Serenity.Pro.Meeting.MeetingType":"eoIJ3heR7p-VnfJLlmgyoA","Columns.Northwind.Product":"638073932004129687","Form.Northwind.Category":"638073932004129696","CssBundle.Base":"x15Ap1ruiPv1IWUoXIgQuA","LocalText.Site.en-US.Public":"Po9mSbUXXbCL8_IFx3H1Bw","Form.Serenity.Pro.DataAuditLog.DataAuditLogForm":"638073932004129714","Lookup.Northwind.Region":"iLtnOIlpBy8MUjuj2zR9Dg","Form.Membership.Login":"638073932004129746","Lookup.Administration.Role":"638073932004129756","Lookup.Distinct.WorkLog.WorkLog.Month":"638073932004129762","Columns.Serenity.Pro.Meeting.Columns.MeetingAgendaColumns":"638073932004129768","Columns.Northwind.Supplier":"638073932004129774","Form.Membership.ChangePassword":"638073932004129779","Form.Serenity.Pro.Meeting.Forms.MeetingTypeForm":"638073932004129783","Columns.WorkLog.Employee":"638073932004129789"}</script>
+    
+    <title>Login to your account</title>
+</head>
+<body id="s-LoginPage" class=" no-navigation">
+    
+<style>
+    a { text-decoration: none; }
+</style>
+
+
+
+<div class="s-full-page justify-content-center">
+    <div id="LoginPanel" class="s-container-tight s-vertical-form s-LoginPanel">
+<h2 class="text-center p-4">
+    <img src="/Content/site/images/serenity-logo-w-128.png" class="rounded-circle p-1" style="background-color: var(--s-sidebar-band-bg)" width="50" height="50"> StartSharp
+</h2>
+
+<div class="s-Panel p-4">
+    <h5 class="text-center my-4">Login to your account</h5>
+    <form id="LoginPanel0_Form" action="" novalidate="novalidate">
+        <div id="LoginPanel0_PropertyGrid" class="s-Serenity-PropertyGrid s-PropertyGrid"><div class="categories"><div class="category"><div class="field Username"><label class="caption" for="LoginPanel0_Username" title="Username"><sup title="Se requiere este campo">*</sup>Username</label><input type="text" class="editor s-Serenity-StringEditor s-StringEditor required valid" id="LoginPanel0_Username" name="Username" placeholder="admin" maxlength="100" aria-invalid="false"><div class="vx"><label id="LoginPanel0_Username-error" class="error checked" for="LoginPanel0_Username" title="" style="display: inline-block;"></label></div><div class="clear"></div></div><div class="field Password"><label class="caption" for="LoginPanel0_Password" title="Password"><sup title="Se requiere este campo">*</sup>Password</label><input type="password" class="editor s-Serenity-PasswordEditor s-PasswordEditor required valid" id="LoginPanel0_Password" name="Password" placeholder="serenity" maxlength="50" aria-invalid="false"><div class="vx"><label id="LoginPanel0_Password-error" class="error checked" for="LoginPanel0_Password" title="" style="display: inline-block;"></label></div><div class="clear"></div></div></div></div></div>
+        <div class="px-field">
+            <a class="float-end text-decoration-none" href="/Account/ForgotPassword">
+                Olvidó su contraseña?
+            </a>
+        </div>
+        <div class="px-field">
+            <button id="LoginPanel0_LoginButton" type="submit" class="btn btn-primary my-3 w-100">
+                Sign In
+            </button>
+        </div>
+    </form>
+</div>
+
+<div class="text-center mt-2">
+    <a class="text-decoration-none" href="/Account/SignUp">Registrar una cuenta nueva</a>
+</div>   
+</div>
+
+    <div class="s-container-tight mt-4">
+        <div class="alert alert-info alert-dismissible pt-1 pb-1">
+            <input type="hidden" id="IsPublicDemo" value="1">
+            <div class="text-center">
+                <i class="fa fa-lightbulb text-warning"></i> <small>demo username: <b>admin</b>, password: <b>serenity</b></small>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script type="module" src="/esm/Modules/Membership/Account/Login/LoginPage.js?v=xJoTXdAACeUGH9uQK7zzEw"></script>
+
+
+<div id="cboxOverlay" style="display: none;"></div><div id="colorbox" class="" role="dialog" tabindex="-1" style="display: none;"><div id="cboxWrapper"><div><div id="cboxTopLeft" style="float: left;"></div><div id="cboxTopCenter" style="float: left;"></div><div id="cboxTopRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxMiddleLeft" style="float: left;"></div><div id="cboxContent" style="float: left;"><div id="cboxTitle" style="float: left;"></div><div id="cboxCurrent" style="float: left;"></div><button type="button" id="cboxPrevious"></button><button type="button" id="cboxNext"></button><button id="cboxSlideshow"></button><div id="cboxLoadingOverlay" style="float: left;"></div><div id="cboxLoadingGraphic" style="float: left;"></div></div><div id="cboxMiddleRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxBottomLeft" style="float: left;"></div><div id="cboxBottomCenter" style="float: left;"></div><div id="cboxBottomRight" style="float: left;"></div></div></div><div style="position: absolute; width: 9999px; visibility: hidden; display: none; max-width: none;"></div></div><div id="toast-container" class="position-toast toast-top-full-width"><div class="toast toast-error" aria-live="assertive" style="display: block;"><div class="toast-message">Usuario o contraseña invalido!</div></div></div></body></html>
